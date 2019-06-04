@@ -1,0 +1,52 @@
+p
+{
+	font-size: 15px;
+	font-family: Verdana, "Arial Narrow", sans-serif;
+}
+
+
+
+body
+{
+	text-align: center;
+}
+
+header
+{
+	height: 100px;
+	background: #e6ecf7;
+	width: 100%;
+	z-index: 10;
+	position: fixed;
+	font-size: 20px;
+	font-family: Verdana, "Arial Narrow", sans-serif;
+	text-align: center;
+	color: #191970;
+	font-weight: bold;
+	
+}
+#banner
+{
+	width: 100%;
+	height:500px;
+	position: fixed;
+	top: 50px;
+	background:#f9fbff;
+}
+#content
+{
+	width: 100%;
+	position: relative;
+	top: 400px;
+	background:#ccced1;
+	height: 1500px;
+}
+.headerBanner
+{
+	display:inline-block;
+	text-decoration:none;
+	color:#191970;
+	margin-right:20px;
+}
+
+	
